@@ -1,0 +1,1 @@
+# Projeto desenvolvido apenas com a biblioteca padrão do Python.
